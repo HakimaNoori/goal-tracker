@@ -1,0 +1,22 @@
+{
+  "dashboard": "Dashboard",
+  "newGoal": "New Goal",
+  "activeGoals": "Active Goals",
+  "completed": "Completed",
+  "streak": "Streak",
+  "xp": "XP",
+  "overallProgress": "Overall Progress",
+  "markProgress": "Mark Progress",
+  "edit": "Edit",
+  "pause": "Pause",
+  "delete": "Delete",
+  "title": "Title",
+  "category": "Category",
+  "type": "Type",
+  "target": "Target",
+  "daily": "Daily",
+  "count": "Count-based",
+  "time": "Time-based",
+  "save": "Save",
+  "cancel": "Cancel"
+}

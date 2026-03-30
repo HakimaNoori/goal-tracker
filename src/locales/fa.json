@@ -1,0 +1,22 @@
+{
+  "dashboard": "داشبورد",
+  "newGoal": "هدف جدید",
+  "activeGoals": "اهداف فعال",
+  "completed": "تکمیل‌شده",
+  "streak": "استریک",
+  "xp": "XP",
+  "overallProgress": "پیشرفت کلی",
+  "markProgress": "ثبت پیشرفت",
+  "edit": "ویرایش",
+  "pause": "توقف",
+  "delete": "حذف",
+  "title": "عنوان",
+  "category": "دسته‌بندی",
+  "type": "نوع",
+  "target": "هدف",
+  "daily": "روزانه",
+  "count": "تعدادمحور",
+  "time": "زمان‌محور",
+  "save": "ذخیره",
+  "cancel": "لغو"
+}
