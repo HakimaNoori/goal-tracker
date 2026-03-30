@@ -37,10 +37,6 @@ A modern and responsive React web application for creating, tracking, and managi
 ```bash
 # Clone the repository
 git clone https://github.com/yourusername/goal-tracker.git
-
-# Navigate to project folder
-cd goal-tracker
-
 # Install dependencies
 npm install
 
