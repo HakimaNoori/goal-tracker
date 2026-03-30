@@ -1,16 +1,48 @@
-# React + Vite
+# Goal Tracker Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive React web application for creating, tracking, and managing personal goals and habits with gamification elements.
 
-Currently, two official plugins are available:
+![Goal Tracker Dashboard](https://via.placeholder.com/800x450?text=Goal+Tracker+Dashboard)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Features
 
-## React Compiler
+- **Interactive Dashboard** showing overall progress, streak, XP, and completed goals
+- **Full CRUD Operations** – Create, Read, Update, and Delete goals
+- **Progress Tracking** with visual progress bars and daily logging
+- **Gamification System** including XP points and daily Streak counter
+- **Multi-language Support** – English and Persian (فارسی)
+- **RTL/LTR Layout Switching** – Automatically switches direction based on selected language
+- **Fully Responsive Design** – Optimized for desktop, tablet, and mobile
+- **Persistent Data Storage** using LocalStorage
+- **Category-based Organization** with statistics
+- **Detailed Goal View** with progress history log
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Tech Stack
 
-## Expanding the ESLint configuration
+- **React 18** + **Vite**
+- **React Router v6** (Multi-page routing)
+- **Material-UI (MUI)** – Components & Theming
+- **i18next** + **react-i18next** – Internationalization
+- **Context API** – Global state management
+- **dayjs** – Date handling and streak calculation
+- **LocalStorage** – Data persistence
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Getting Started
+
+### Prerequisites
+- Node.js (v18 or higher)
+
+### Installation & Running
+
+```bash
+# Clone the repository
+git clone https://github.com/yourusername/goal-tracker.git
+
+# Navigate to project folder
+cd goal-tracker
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
